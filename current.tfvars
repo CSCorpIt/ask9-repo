@@ -1,0 +1,10 @@
+azurerm_resource_group_name = ${pa}
+azurerm_key = "snackingnextgen-dev-comp-eastus2.tfstate"
+azurerm_storage_account_name = "oddatfstateeus2devsa"
+azurerm_container_name = "resource-tfstate"
+solution_name       = "snackingnextgen-prod"
+region              = "eastus"
+environment         = "prod"
+vnet_name           = "oddacoreeusprodvnet"
+vnet_rg             = "ODDACORE-NETWORK-EUS-PROD-RG"
+resource_group_name = "resource_group_name"
